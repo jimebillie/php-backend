@@ -13,7 +13,7 @@ new checkLogin;
           content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" href="<?=get_path_env_billie_template()?>image-dashboard/dashboard-ico.png">
-    <title><?=$_ENV['APP_NAME']?></title>
+    <title>Dashboard</title>
 
     <!--bootstrap-->
     <link rel="stylesheet" href="<?=get_path_env_billie_template()?>bootstrap-5.3.1/css/bootstrap.min.css">
