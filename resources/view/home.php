@@ -1,0 +1,3 @@
+<?php require_once(get_path_view('layout/head'));?>
+...
+<?php require_once(get_path_view('layout/footer'));?>
