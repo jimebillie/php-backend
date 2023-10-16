@@ -4,5 +4,8 @@
       "App\\":"app",
       "Routes\\":"routes"
     }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.5"
   }
 }

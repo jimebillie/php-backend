@@ -1,9 +1,12 @@
 <?php
 session_start();
 require_once __DIR__ . "/config/func_autoload.php";
+Dotenv\Dotenv::createUnsafeImmutable(__DIR__)->load();
 require_once('config/func_dd.php');
 require_once('config/func_get_path.php');
 require_once('config/func_view.php');
+
+
 
 /**
  * ----------------------------------------------
