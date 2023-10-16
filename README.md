@@ -6,7 +6,7 @@ PHP Backend System ―  Route, View, Controller, Login system, Template admin
 git clone https://github.com/jimebillie/php-backend.git
 ```
 * Change the folder name from `php-backend` to `backend` and everything should be fine.
-
+* Change the file name from `.env.example` to `.env`.
 ---
 
 ![image](https://github.com/jimebillie/php-backend/assets/142768350/760e5728-766a-4db1-bbd4-e259f5e6fb7e)
